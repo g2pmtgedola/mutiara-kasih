@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Kemas kini domain sebenar selepas deployment rasmi
+# Sitemap: https://contoh-domain-mutiarakasih.my/sitemap.xml

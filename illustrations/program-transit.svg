@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550" fill="none">
+  <rect width="800" height="550" rx="32" fill="#FFF9EA"/>
+  <rect x="0" y="425" width="800" height="125" fill="#A9DDF3" fill-opacity="0.45"/>
+  <!-- School Bag & Books -->
+  <rect x="310" y="195" width="180" height="210" rx="45" fill="#F6A9C3" stroke="#344054" stroke-width="6"/>
+  <path d="M360 195V170C360 148 378 130 400 130C422 130 440 148 440 170V195" stroke="#344054" stroke-width="6" stroke-linecap="round"/>
+  <rect x="340" y="285" width="120" height="85" rx="22" fill="#FFE6A7" stroke="#344054" stroke-width="5"/>
+  <circle cx="400" cy="240" r="18" fill="#FFFFFF" stroke="#344054" stroke-width="4"/>
+  <!-- Books stack -->
+  <rect x="530" y="365" width="130" height="30" rx="10" fill="#BCE8D4" stroke="#344054" stroke-width="4"/>
+  <rect x="540" y="335" width="115" height="30" rx="10" fill="#D9C9F4" stroke="#344054" stroke-width="4"/>
+  <!-- Star badges -->
+  <circle cx="210" cy="340" r="45" fill="#BCE8D4" stroke="#344054" stroke-width="5"/>
+</svg>

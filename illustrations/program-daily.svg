@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550" fill="none">
+  <rect width="800" height="550" rx="32" fill="#FDF1F5"/>
+  <circle cx="680" cy="110" r="65" fill="#FFE6A7"/>
+  <circle cx="680" cy="110" r="85" fill="#FFE6A7" fill-opacity="0.35"/>
+  <!-- Clouds -->
+  <path d="M120 130C120 113 134 100 150 100C162 100 173 107 177 118C181 115 186 114 192 114C206 114 218 125 218 140C218 141 218 142 217 143H122C121 139 120 135 120 130Z" fill="#FFFFFF"/>
+  <!-- Rainbow -->
+  <path d="M180 420C180 298 278 200 400 200C522 200 620 298 620 420" stroke="#F6A9C3" stroke-width="22" stroke-linecap="round"/>
+  <path d="M208 420C208 314 294 228 400 228C506 228 592 314 592 420" stroke="#FFE6A7" stroke-width="22" stroke-linecap="round"/>
+  <path d="M236 420C236 330 310 256 400 256C490 256 564 330 564 420" stroke="#A9DDF3" stroke-width="22" stroke-linecap="round"/>
+  <path d="M264 420C264 345 325 284 400 284C475 284 536 345 536 420" stroke="#BCE8D4" stroke-width="22" stroke-linecap="round"/>
+  <!-- Ground & Cozy Care House -->
+  <rect x="0" y="420" width="800" height="130" fill="#BCE8D4"/>
+  <rect x="300" y="290" width="200" height="150" rx="20" fill="#FFFFFF" stroke="#344054" stroke-width="5"/>
+  <path d="M275 300L400 210L525 300H275Z" fill="#F6A9C3" stroke="#344054" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="372" y="355" width="56" height="85" rx="28" fill="#FFE6A7" stroke="#344054" stroke-width="4"/>
+  <circle cx="400" cy="265" r="16" fill="#FFFFFF" stroke="#344054" stroke-width="4"/>
+  <!-- Heart emblem -->
+  <path d="M400 325C394 318 383 319 383 329C383 337 400 347 400 347C400 347 417 337 417 329C417 319 406 318 400 325Z" fill="#E06E96"/>
+  <!-- Play blocks -->
+  <rect x="170" y="385" width="48" height="48" rx="10" fill="#A9DDF3" stroke="#344054" stroke-width="4"/>
+  <rect x="225" y="395" width="38" height="38" rx="8" fill="#FFE6A7" stroke="#344054" stroke-width="4"/>
+  <circle cx="595" cy="405" r="28" fill="#D9C9F4" stroke="#344054" stroke-width="4"/>
+</svg>

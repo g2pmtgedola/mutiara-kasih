@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550" fill="none">
+  <rect width="800" height="550" rx="32" fill="#F6F3FD"/>
+  <circle cx="400" cy="275" r="190" fill="#FFFFFF" stroke="#D9C9F4" stroke-width="6" stroke-dasharray="14 14"/>
+  <!-- Circle of Friendship & Sharing -->
+  <circle cx="400" cy="145" r="45" fill="#F6A9C3" stroke="#344054" stroke-width="5"/>
+  <circle cx="525" cy="235" r="45" fill="#A9DDF3" stroke="#344054" stroke-width="5"/>
+  <circle cx="475" cy="375" r="45" fill="#BCE8D4" stroke="#344054" stroke-width="5"/>
+  <circle cx="325" cy="375" r="45" fill="#FFE6A7" stroke="#344054" stroke-width="5"/>
+  <circle cx="275" cy="235" r="45" fill="#D9C9F4" stroke="#344054" stroke-width="5"/>
+  <!-- Heart in center -->
+  <path d="M400 255C388 240 364 242 364 264C364 282 400 304 400 304C400 304 436 282 436 264C436 242 412 240 400 255Z" fill="#E06E96"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550" fill="none">
+  <rect width="800" height="550" rx="32" fill="#FDF1F5"/>
+  <circle cx="670" cy="115" r="80" fill="#FFE6A7" fill-opacity="0.5"/>
+  <!-- Canvas & Easel -->
+  <path d="M320 460L370 160M480 460L430 160M400 160V470" stroke="#344054" stroke-width="8" stroke-linecap="round"/>
+  <rect x="260" y="170" width="280" height="200" rx="20" fill="#FFFFFF" stroke="#344054" stroke-width="6"/>
+  <!-- Painted Rainbow & Sun on Canvas -->
+  <path d="M310 330C310 280 350 240 400 240C450 240 490 280 490 330" stroke="#F6A9C3" stroke-width="16" stroke-linecap="round"/>
+  <path d="M335 330C335 294 364 265 400 265C436 265 465 294 465 330" stroke="#A9DDF3" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="330" cy="215" r="20" fill="#FFE6A7"/>
+  <!-- Paint Palette -->
+  <ellipse cx="200" cy="390" rx="75" ry="55" fill="#FFE6A7" stroke="#344054" stroke-width="5"/>
+  <circle cx="170" cy="375" r="12" fill="#E06E96"/>
+  <circle cx="205" cy="365" r="12" fill="#4DA5CE"/>
+  <circle cx="235" cy="385" r="12" fill="#55AC85"/>
+  <circle cx="190" cy="410" r="12" fill="#8565C4"/>
+</svg>

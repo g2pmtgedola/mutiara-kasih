@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550" fill="none">
+  <rect width="800" height="550" rx="32" fill="#FDF1F5"/>
+  <!-- Balloons & Bunting -->
+  <circle cx="210" cy="190" r="48" fill="#F6A9C3" stroke="#344054" stroke-width="4"/>
+  <path d="M210 238V320" stroke="#344054" stroke-width="3"/>
+  <circle cx="590" cy="180" r="48" fill="#A9DDF3" stroke="#344054" stroke-width="4"/>
+  <path d="M590 228V310" stroke="#344054" stroke-width="3"/>
+  <circle cx="400" cy="130" r="42" fill="#FFE6A7" stroke="#344054" stroke-width="4"/>
+  <!-- Celebration Cake / Joy -->
+  <rect x="300" y="320" width="200" height="100" rx="22" fill="#FFFFFF" stroke="#344054" stroke-width="5"/>
+  <path d="M300 355C325 375 350 335 375 355C400 375 425 335 450 355C475 375 500 355 500 355" stroke="#F6A9C3" stroke-width="10" stroke-linecap="round"/>
+  <rect x="392" y="265" width="16" height="55" rx="6" fill="#BCE8D4" stroke="#344054" stroke-width="4"/>
+  <circle cx="400" cy="250" r="12" fill="#FFE6A7"/>
+</svg>

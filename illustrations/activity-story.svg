@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550" fill="none">
+  <rect width="800" height="550" rx="32" fill="#EFF9FD"/>
+  <circle cx="400" cy="275" r="210" fill="#A9DDF3" fill-opacity="0.25"/>
+  <!-- Open Storybook -->
+  <path d="M190 220C260 200 340 210 400 240C460 210 540 200 610 220V420C540 400 460 410 400 440C340 410 260 400 190 420V220Z" fill="#FFFFFF" stroke="#344054" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M400 240V440" stroke="#344054" stroke-width="6" stroke-linecap="round"/>
+  <!-- Floating magical story elements -->
+  <circle cx="290" cy="145" r="32" fill="#FFE6A7" stroke="#344054" stroke-width="4"/>
+  <path d="M470 150C470 130 486 115 505 115C520 115 533 124 538 137C552 138 562 149 562 163C562 178 550 190 535 190H475C462 190 452 180 452 167C452 156 460 147 470 146" fill="#F6A9C3" stroke="#344054" stroke-width="4"/>
+  <path d="M240 290H350M240 325H330M450 290H560M450 325H535" stroke="#A9DDF3" stroke-width="8" stroke-linecap="round"/>
+</svg>

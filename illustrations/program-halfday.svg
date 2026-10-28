@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550" fill="none">
+  <rect width="800" height="550" rx="32" fill="#EFF9FD"/>
+  <circle cx="150" cy="120" r="60" fill="#FFE6A7"/>
+  <rect x="0" y="430" width="800" height="120" fill="#BCE8D4"/>
+  <!-- Clock & Schedule Visual -->
+  <circle cx="400" cy="255" r="115" fill="#FFFFFF" stroke="#344054" stroke-width="6"/>
+  <circle cx="400" cy="255" r="92" fill="#FDF1F5"/>
+  <path d="M400 185V255L450 285" stroke="#344054" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="400" cy="255" r="10" fill="#E06E96"/>
+  <!-- Toy Blocks & Story Book -->
+  <rect x="180" y="340" width="90" height="90" rx="18" fill="#F6A9C3" stroke="#344054" stroke-width="5"/>
+  <text x="225" y="400" text-anchor="middle" font-family="Poppins, sans-serif" font-size="42" font-weight="700" fill="#FFFFFF">A</text>
+  <rect x="530" y="350" width="110" height="80" rx="16" fill="#FFE6A7" stroke="#344054" stroke-width="5"/>
+  <path d="M555 390H615M555 410H595" stroke="#344054" stroke-width="5" stroke-linecap="round"/>
+  <!-- Stars -->
+  <circle cx="620" cy="150" r="14" fill="#F6A9C3"/>
+  <circle cx="240" cy="180" r="10" fill="#D9C9F4"/>
+</svg>

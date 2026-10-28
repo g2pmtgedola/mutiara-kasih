@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550" fill="none">
+  <rect width="800" height="550" rx="32" fill="#FFFDF8"/>
+  <rect x="0" y="390" width="800" height="160" fill="#FDF1F5"/>
+  <!-- Window with Sunlight -->
+  <rect x="140" y="90" width="180" height="200" rx="24" fill="#EFF9FD" stroke="#344054" stroke-width="5"/>
+  <path d="M230 90V290M140 190H320" stroke="#344054" stroke-width="5"/>
+  <!-- Wall Banner / Bunting -->
+  <path d="M380 110L420 160L460 110H380Z" fill="#F6A9C3"/>
+  <path d="M470 110L510 160L550 110H470Z" fill="#FFE6A7"/>
+  <path d="M560 110L600 160L640 110H560Z" fill="#BCE8D4"/>
+  <!-- Play Mat & Storage Shelf -->
+  <ellipse cx="400" cy="450" rx="260" ry="55" fill="#A9DDF3" stroke="#344054" stroke-width="5"/>
+  <rect x="430" y="220" width="230" height="170" rx="18" fill="#FFFFFF" stroke="#344054" stroke-width="5"/>
+  <rect x="455" y="245" width="80" height="55" rx="10" fill="#FFE6A7"/>
+  <rect x="555" y="245" width="80" height="55" rx="10" fill="#F6A9C3"/>
+  <rect x="455" y="315" width="80" height="55" rx="10" fill="#BCE8D4"/>
+  <rect x="555" y="315" width="80" height="55" rx="10" fill="#D9C9F4"/>
+</svg>

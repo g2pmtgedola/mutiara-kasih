@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550" fill="none">
+  <rect width="800" height="550" rx="32" fill="#F1FBF6"/>
+  <rect x="0" y="420" width="800" height="130" fill="#A9DDF3" fill-opacity="0.35"/>
+  <!-- Child-friendly Handwashing Sink & Mirror -->
+  <circle cx="400" cy="175" r="75" fill="#EFF9FD" stroke="#344054" stroke-width="5"/>
+  <path d="M290 310H510C510 365 460 400 400 400C340 400 290 365 290 310Z" fill="#FFFFFF" stroke="#344054" stroke-width="5"/>
+  <rect x="370" y="400" width="60" height="75" fill="#FFFFFF" stroke="#344054" stroke-width="5"/>
+  <!-- Soap Bubbles -->
+  <circle cx="240" cy="220" r="24" fill="#A9DDF3" fill-opacity="0.6" stroke="#4DA5CE" stroke-width="3"/>
+  <circle cx="280" cy="170" r="14" fill="#F6A9C3" fill-opacity="0.6" stroke="#E06E96" stroke-width="3"/>
+  <circle cx="550" cy="200" r="28" fill="#BCE8D4" fill-opacity="0.6" stroke="#55AC85" stroke-width="3"/>
+  <circle cx="515" cy="250" r="16" fill="#FFE6A7" fill-opacity="0.7" stroke="#D99B26" stroke-width="3"/>
+</svg>

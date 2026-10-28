@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550" fill="none">
+  <rect width="800" height="550" rx="32" fill="#EFF9FD"/>
+  <rect x="0" y="410" width="800" height="140" fill="#BCE8D4"/>
+  <circle cx="650" cy="120" r="60" fill="#FFE6A7"/>
+  <!-- Flowers & Nature Exploration -->
+  <path d="M260 410V300" stroke="#55AC85" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="260" cy="280" r="38" fill="#F6A9C3" stroke="#344054" stroke-width="5"/>
+  <circle cx="260" cy="280" r="16" fill="#FFE6A7"/>
+  <path d="M520 410V320" stroke="#55AC85" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="520" cy="300" r="34" fill="#D9C9F4" stroke="#344054" stroke-width="5"/>
+  <circle cx="520" cy="300" r="14" fill="#FFE6A7"/>
+  <!-- Magnifying Glass -->
+  <circle cx="385" cy="235" r="75" fill="#FFFFFF" fill-opacity="0.85" stroke="#344054" stroke-width="8"/>
+  <path d="M440 290L500 350" stroke="#344054" stroke-width="14" stroke-linecap="round"/>
+  <!-- Butterfly inside lens -->
+  <ellipse cx="368" cy="230" rx="20" ry="26" fill="#F6A9C3" stroke="#344054" stroke-width="4"/>
+  <ellipse cx="402" cy="230" rx="20" ry="26" fill="#A9DDF3" stroke="#344054" stroke-width="4"/>
+</svg>

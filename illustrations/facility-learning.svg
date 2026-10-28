@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550" fill="none">
+  <rect width="800" height="550" rx="32" fill="#EFF9FD"/>
+  <rect x="0" y="410" width="800" height="140" fill="#A9DDF3" fill-opacity="0.4"/>
+  <!-- Reading Corner Bookshelf & Whiteboard -->
+  <rect x="150" y="140" width="210" height="270" rx="20" fill="#FFFFFF" stroke="#344054" stroke-width="5"/>
+  <path d="M150 230H360M150 320H360" stroke="#344054" stroke-width="5"/>
+  <rect x="175" y="165" width="28" height="65" rx="6" fill="#F6A9C3"/>
+  <rect x="210" y="175" width="28" height="55" rx="6" fill="#FFE6A7"/>
+  <rect x="245" y="160" width="28" height="70" rx="6" fill="#BCE8D4"/>
+  <rect x="180" y="255" width="35" height="65" rx="6" fill="#D9C9F4"/>
+  <rect x="225" y="265" width="35" height="55" rx="6" fill="#A9DDF3"/>
+  <!-- Learning Board -->
+  <rect x="420" y="150" width="240" height="170" rx="20" fill="#FFFFFF" stroke="#344054" stroke-width="5"/>
+  <text x="540" y="245" text-anchor="middle" font-family="Poppins, sans-serif" font-size="44" font-weight="800" fill="#E06E96">A B C</text>
+  <!-- Reading Beanbag -->
+  <ellipse cx="540" cy="400" rx="95" ry="45" fill="#F6A9C3" stroke="#344054" stroke-width="5"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550" fill="none">
+  <rect width="800" height="550" rx="32" fill="#FFF9EA"/>
+  <rect x="0" y="400" width="800" height="150" fill="#FFE6A7" fill-opacity="0.45"/>
+  <!-- Child-sized Dining Table & Chairs -->
+  <rect x="200" y="290" width="400" height="28" rx="14" fill="#FFFFFF" stroke="#344054" stroke-width="5"/>
+  <path d="M250 318V430M550 318V430" stroke="#344054" stroke-width="8" stroke-linecap="round"/>
+  <!-- Plates & Cups -->
+  <ellipse cx="310" cy="282" rx="42" ry="12" fill="#F6A9C3" stroke="#344054" stroke-width="4"/>
+  <ellipse cx="490" cy="282" rx="42" ry="12" fill="#A9DDF3" stroke="#344054" stroke-width="4"/>
+  <rect x="375" y="245" width="50" height="45" rx="10" fill="#BCE8D4" stroke="#344054" stroke-width="4"/>
+  <!-- Cute Chairs -->
+  <rect x="140" y="250" width="45" height="170" rx="14" fill="#F6A9C3" stroke="#344054" stroke-width="5"/>
+  <rect x="615" y="250" width="45" height="170" rx="14" fill="#A9DDF3" stroke="#344054" stroke-width="5"/>
+</svg>

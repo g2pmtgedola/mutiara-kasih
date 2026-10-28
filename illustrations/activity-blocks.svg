@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550" fill="none">
+  <rect width="800" height="550" rx="32" fill="#FFF9EA"/>
+  <rect x="0" y="430" width="800" height="120" fill="#BCE8D4" fill-opacity="0.5"/>
+  <!-- Stacking Blocks -->
+  <rect x="220" y="310" width="110" height="110" rx="20" fill="#F6A9C3" stroke="#344054" stroke-width="5"/>
+  <text x="275" y="380" text-anchor="middle" font-family="Poppins, sans-serif" font-size="48" font-weight="800" fill="#FFFFFF">A</text>
+  <rect x="345" y="310" width="110" height="110" rx="20" fill="#A9DDF3" stroke="#344054" stroke-width="5"/>
+  <text x="400" y="380" text-anchor="middle" font-family="Poppins, sans-serif" font-size="48" font-weight="800" fill="#344054">B</text>
+  <rect x="470" y="310" width="110" height="110" rx="20" fill="#BCE8D4" stroke="#344054" stroke-width="5"/>
+  <text x="525" y="380" text-anchor="middle" font-family="Poppins, sans-serif" font-size="48" font-weight="800" fill="#344054">C</text>
+  <rect x="285" y="190" width="110" height="110" rx="20" fill="#FFE6A7" stroke="#344054" stroke-width="5"/>
+  <text x="340" y="260" text-anchor="middle" font-family="Poppins, sans-serif" font-size="48" font-weight="800" fill="#344054">1</text>
+  <rect x="410" y="190" width="110" height="110" rx="20" fill="#D9C9F4" stroke="#344054" stroke-width="5"/>
+  <text x="465" y="260" text-anchor="middle" font-family="Poppins, sans-serif" font-size="48" font-weight="800" fill="#344054">2</text>
+  <path d="M350 180L400 105L450 180H350Z" fill="#F6A9C3" stroke="#344054" stroke-width="5" stroke-linejoin="round"/>
+</svg>
